@@ -1,5 +1,7 @@
 # Project specific
-logg 
+.logg
+fastapi_venv/
+
 
 # Python cache
 __pycache__/
